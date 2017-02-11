@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeviceAdministrator</string>
+    <string name="device_administrator_status">Device Administrator Status</string>
+    <string name="device_admin">Device Admin</string>
+</resources>
